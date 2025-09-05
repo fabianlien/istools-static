@@ -1,1 +1,1 @@
-Site is live at [https://fabianlien.github.io/effective-spoon/](https://fabianlien.github.io/effective-spoon/)
+Site is live at [https://fabianlien.github.io/istools-static/](https://fabianlien.github.io/istools-static/)
