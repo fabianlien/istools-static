@@ -1,8 +1,8 @@
 Site is live at [https://fabianlien.github.io/istools-static/](https://fabianlien.github.io/istools-static/)
 
-[Logotype](https://fabianlien.github.io/istools-static/logos/Logo)
+[Logotype](https://fabianlien.github.io/istools-static/logos/Logo.png)
 
-[Logo with name](https://fabianlien.github.io/istools-static/logos/Logo_name.png))
+[Logo with name](https://fabianlien.github.io/istools-static/logos/Logo_name.png)
 
 [Logo with name and copywright](https://fabianlien.github.io/istools-static/logos/Logo_name_trademark.png)
 
