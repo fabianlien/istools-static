@@ -9,3 +9,7 @@ Site is live at [https://fabianlien.github.io/istools-static/](https://fabianlie
 [Logo with name and tutorial tag](https://fabianlien.github.io/istools-static/logos/is_tooltorial_logo.png)
 
 [Logo loader gif](https://fabianlien.github.io/istools-static/gifs/is%20Tools%20loader.gif)
+
+[FibrOptyx Full Logo with slogan](https://fabianlien.github.io/istools-static/logos/FibrOptyx_logo_full.png)
+
+[FibrOptyx Thumbnail Logo](https://fabianlien.github.io/istools-static/logos/FibrOptyx_logo_small.png)
